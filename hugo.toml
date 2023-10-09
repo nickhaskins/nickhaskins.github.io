@@ -1,0 +1,4 @@
+baseURL = 'https://nicholashaskins.com/'
+languageCode = 'en-us'
+title = 'NicholasHaskins.com'
+theme = 'ananke'
